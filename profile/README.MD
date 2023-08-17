@@ -1,6 +1,6 @@
 # Notus Labs
 
-Notus Labs is a laboratory for developing the Notus project, which consists of tools to build a distributed system for managing the network.
+Notus Labs is a laboratory for developing the Patara and Notus projects.
 
 ## Notus
 
